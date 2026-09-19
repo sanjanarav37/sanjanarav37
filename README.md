@@ -12,6 +12,6 @@ until they finally work.
 
 > still learning, still building, still debugging :')
 <br>
-<div align="center">
+<div align="left">
  <img src="./dino.png" width="200" alt="dino">
 </div>
