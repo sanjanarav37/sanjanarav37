@@ -11,7 +11,6 @@ until they finally work.
 🪄 Fun fact: half my debugging journey is just finding one stupid typo.
 
 > still learning, still building, still debugging :')
-<br>
 <div align="left">
  <img src="./dino.png" width="200" alt="dino">
 </div>
